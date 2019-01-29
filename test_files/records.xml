@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <records>
+        <record reference="187997">
+            <accountNumber>NL91RABO0315273637</accountNumber>
+            <description>Clothes for Rik King</description>
+            <startBalance>57.6</startBalance>
+            <mutation>-32.98</mutation>
+            <endBalance>24.62</endBalance>
+        </record>
+
+    </records>
